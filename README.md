@@ -2,7 +2,11 @@
 
 The purpose of this code is to analyze how often integer values (consecutive bytes) appear in files of various formats.
 
-### Usage
+## Information
+- This was developed for a college job.
+- Feel free to clone it and modify it at will.
+
+## Usage
 
 Run it as follows:
 
