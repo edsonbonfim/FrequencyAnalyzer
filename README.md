@@ -7,13 +7,13 @@ The purpose of this code is to analyze how often integer values (consecutive byt
 Run it as follows:
 
 ``` sh
-./analyzer <input-file> <output-file>
+$ ./analyzer input-file output-file
 ```
 
 where
 
-```<input-file>``` is the file you want to analyze
+**```input-file```** is the file you want to analyze
 
 and
 
-```<output-file>``` is the file you want to store the analysis
+**```output-file```** is the file you want to store the analysis
